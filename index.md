@@ -23,7 +23,7 @@ Users can:
 - Remove the extension at any time
 
 ## 5. Contact
-Privacy concerns: [your email]
+Privacy concerns: barbierianpro@gmail.com
 
 ## 6. Changes
 We reserve the right to update this privacy policy, notifying users through the extension interface.
